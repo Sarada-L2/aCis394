@@ -63,7 +63,7 @@ import net.sf.l2j.gameserver.taskmanager.GameTimeTaskManager;
 public class EnterWorld extends L2GameClientPacket
 {
 	private static final String LOAD_PLAYER_QUESTS = "SELECT name,var,value FROM character_quests WHERE charId=?";
-
+//teste
 	@Override
 	protected void readImpl()
 	{

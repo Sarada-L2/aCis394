@@ -21,8 +21,7 @@ public enum ZoneId
 	CAST_ON_ARTIFACT(16),
 	NO_RESTART(17),
 	SCRIPT(18),
-	BOSS(19),
-	SPOIL(20);
+	BOSS(19);
 	
 	private final int _id;
 	
